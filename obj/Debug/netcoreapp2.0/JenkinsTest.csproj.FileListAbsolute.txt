@@ -1,0 +1,10 @@
+E:\Coding\Projects\Jenkins-Test\bin\Debug\netcoreapp2.0\JenkinsTest.deps.json
+E:\Coding\Projects\Jenkins-Test\bin\Debug\netcoreapp2.0\JenkinsTest.runtimeconfig.json
+E:\Coding\Projects\Jenkins-Test\bin\Debug\netcoreapp2.0\JenkinsTest.runtimeconfig.dev.json
+E:\Coding\Projects\Jenkins-Test\bin\Debug\netcoreapp2.0\JenkinsTest.dll
+E:\Coding\Projects\Jenkins-Test\bin\Debug\netcoreapp2.0\JenkinsTest.pdb
+E:\Coding\Projects\Jenkins-Test\obj\Debug\netcoreapp2.0\JenkinsTest.csproj.CoreCompileInputs.cache
+E:\Coding\Projects\Jenkins-Test\obj\Debug\netcoreapp2.0\JenkinsTest.AssemblyInfoInputs.cache
+E:\Coding\Projects\Jenkins-Test\obj\Debug\netcoreapp2.0\JenkinsTest.AssemblyInfo.cs
+E:\Coding\Projects\Jenkins-Test\obj\Debug\netcoreapp2.0\JenkinsTest.dll
+E:\Coding\Projects\Jenkins-Test\obj\Debug\netcoreapp2.0\JenkinsTest.pdb
